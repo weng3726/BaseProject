@@ -12,7 +12,7 @@ public class okTest {
 
         String result = ok.getType();
 
-        Assert.assertEquals("不是三角形",result);
+        Assert.assertEquals("不是三角形.",result);
     }
 
 }
